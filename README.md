@@ -1,5 +1,7 @@
 # hello-world
 
+start learning git
+
 This document is written in Markdown format. 
 
 There is a nice [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
